@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#container1{
+    text-align: center;
+    /* border: 1px solid black; */
+    height: auto;
+    background-color:greenyellow;
+}
+h1{
+    color: darkslateblue;
+}
+h4{
+    color: red;
+}
+#logo1{
+    float: left;
+    height: 140px;
+    border-radius: 50%;
+   
+}
+#logo2{
+    float: right;
+    height: 135px;
+}
+#log{
+    text-align: center;
+    float: center;
+}

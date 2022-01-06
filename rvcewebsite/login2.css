@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#container1{
+    text-align: center;
+    /* border: 1px solid black; */
+    height: auto;
+    background-color:greenyellow;
+}
+h1{
+    color: darkslateblue;
+}
+h4{
+    color: red;
+}
+#logo1{
+    float: left;
+    height: 140px;
+    border-radius: 50%;
+   
+}
+#logo2{
+    float: right;
+    height: 135px;
+}
+#log{
+    text-align: center;
+    float: center;
+}
+button a{
+    text-decoration: none;
+}
+
+#logindiv2 {
+    background-image:url('login wallpaper2.jpg');
+    height: 500px;
+}
+#typeEmailX-2{
+   border: 1px solid black;
+   border-radius: 30px 30px;
+}
+
+#typePasswordX-2{
+    border: 1px solid black;
+   border-radius: 30px 30px;
+}
